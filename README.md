@@ -4,6 +4,11 @@
 
 MBWCT-Net（Multi-Branch Wavelet-CNN Transformer Network）是一种用于多通道一维信号分类的深度学习模型。该模型结合了小波变换、卷积神经网络和Transformer架构，特别适用于气体传感器数据分析。
 
+## 电子鼻及模型图
+
+![ENOSE](ENOSE.jpg)
+![MBWCT-Net](MBWCT-Net.jpg)
+
 ## 特性
 
 - **多分支架构**: 使用多个并行分支处理输入信号的不同方面
